@@ -13,10 +13,12 @@ Based in Bangalore, India, I enjoy turning practical problems into reliable, sca
 
 ## Featured projects
 
-- [**DiffGuard**](https://github.com/kevingerard2819/diffguard) — Evidence-first AI code reviewer with deterministic guardrails, structured Gemini findings, and adversarial evaluations.
-- [**Customer Support Agent**](https://github.com/kevingerard2819/Customer-Support-Agent-) — Python-based AI customer-support agent.
-- [**Interview Kit AI**](https://github.com/kevingerard2819/Interview-Kit-AI-) — AI-assisted interview preparation application.
-- [**Linguofy**](https://github.com/kevingerard2819/linguofy) — Voice-to-text application built with JavaScript.
+- [**DiffGuard**](https://github.com/kevingerard2819/diffguard) — Evidence-first AI code reviewer with deterministic guardrails, structured Gemini findings, and adversarial evaluations. [Live demo](https://diffguard-ten.vercel.app/)
+- [**Customer Support Agent**](https://github.com/kevingerard2819/customer-support-agent) — Evidence-grounded support agent with retrieval, Gemini, deterministic safety gates, and reproducible evaluation.
+- [**Interview Kit AI**](https://github.com/kevingerard2819/interview-kit-ai) — Full-stack interview-preparation platform with company research, personalized study kits, and deterministic coverage checks. [Live demo](https://interview-kit-ai.vercel.app/)
+- [**Ticket System**](https://github.com/kevingerard2819/ticket-system) — Go REST API with JWT authentication, per-user ticket workflows, Docker deployment, and persistent storage. [Live API](https://ticket-system-d2j7.onrender.com/)
+- [**Linguofy**](https://github.com/kevingerard2819/linguofy) — Voice-to-text platform with transcription, translation, Gemini summaries, conversational AI, and saved history.
+- [**Traffic Route Optimizer**](https://github.com/kevingerard2819/traffic-route-optimizer) — Real-time traffic and fleet dashboard using Kafka, microservices, SQLite, and ML-based congestion prediction.
 
 ## Connect with me
 
