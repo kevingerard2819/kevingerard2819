@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kevin Thomas 👋
 
-<!--
-**kevingerard2819/kevingerard2819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI/ML & Backend Engineer** focused on building production-ready LLM, RAG, and cloud applications.
 
-Here are some ideas to get you started:
+Based in Bangalore, India, I enjoy turning practical problems into reliable, scalable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- **AI/ML:** LLM applications, retrieval-augmented generation, AI agents
+- **Backend:** Python, TypeScript, Java, Go, REST APIs
+- **Cloud:** AWS and scalable application architecture
+- **Currently exploring:** evaluation, guardrails, and dependable AI systems
+
+## Featured projects
+
+- [**DiffGuard**](https://github.com/kevingerard2819/diffguard) — Evidence-first AI code reviewer with deterministic guardrails, structured Gemini findings, and adversarial evaluations.
+- [**Customer Support Agent**](https://github.com/kevingerard2819/Customer-Support-Agent-) — Python-based AI customer-support agent.
+- [**Interview Kit AI**](https://github.com/kevingerard2819/Interview-Kit-AI-) — AI-assisted interview preparation application.
+- [**Linguofy**](https://github.com/kevingerard2819/linguofy) — Voice-to-text application built with JavaScript.
+
+## Connect with me
+
+- [Portfolio](https://portfolio-gold-psi-uogrmb1nst.vercel.app/#top)
+- [LinkedIn](https://www.linkedin.com/in/kevin-thomas-340323204/)
+
+I'm open to collaborating on practical AI, backend, and cloud projects.
